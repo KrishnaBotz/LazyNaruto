@@ -15,7 +15,7 @@ I Cᴀɴ Pʀᴏᴠɪᴅᴇ Mᴏᴠɪᴇ Fᴏʀ Yᴏᴜ Jᴜsᴛ Aᴅᴅ Mᴇ Iɴ
 ✯ Mʏ Vᴇʀꜱɪᴏɴ: ᴩʀᴏꜰᴇꜱꜱᴏʀ-ʙᴏᴛ ᴠ4.5.0</b>"""
    
     SOURCE_TXT = """<b>NOTE:</b>
-- ꜱᴏᴜʀᴄᴇ ᴄᴏᴅᴇ ʜᴇʀᴇ ◉› :<a href=https://t.me/Movies_Zone_Media>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a>
+- ꜱᴏᴜʀᴄᴇ ᴄᴏᴅᴇ ʜᴇʀᴇ ◉› :<a href=https://t.me/AnimeZone_Hindi>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a>
 
 <b>ᴅᴇᴠ: <a herf=https://t.me/Krishna00P>Kʀɪsʜɴᴀ</a></b>"""
 
@@ -227,7 +227,7 @@ Wᴇʟᴄᴏᴍᴇ ᴛᴏ {chat}.
 📆 Yᴇᴀʀ: <a href={url}/releaseinfo>{year}</a>
 🌟 Rᴀᴛɪɴɢ: <a href={url}/ratings>{rating}</a>/10
 
-By ❣️ @Movies_Zone_Media"""
+By ❣️ @AnimeZone_Hindi"""
    
   
  
